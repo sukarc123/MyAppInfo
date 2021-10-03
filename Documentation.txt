@@ -1,0 +1,19 @@
+GOAL- TO COMPLETE PROJECT IN 2 SPRINTS 
+STEPS TO ACHIEVE PROJECT IN 15 WEEKS:
+1. Understandig the requirements for the app 
+2. Meetings with the team, manager and team leaders from other dpartment. 
+3. Deciding the time frame, scope and goal of the project. 
+4. Further understanding the client requirements for further updation. 
+5. Regular meetings to complete the project. 
+sprint 1:
+understanding the requirements 
+Performing system requirements
+Completing the first module. 
+Discussion with the manager regarding the progress. 
+Completing basic methods or operation of file. 
+
+
+Sprint 2:
+Completing the main method of the class
+Declaring and calling the methods from other class
+Creating the menu option to display the welcome screen and the developer details. 
